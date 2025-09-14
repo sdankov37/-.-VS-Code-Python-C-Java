@@ -1,0 +1,15 @@
+public class java1 {
+    public static void main(String[] args) {
+        // Создаем переменные a и b
+        String a;
+        String b;
+        
+        // Добавляем строчки в переменные
+        a = "Hello, ";
+        b = "world!";
+        
+        // Выводим переменные на экран
+        System.out.print(a);
+        System.out.print(b);
+    }
+}
